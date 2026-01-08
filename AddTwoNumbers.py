@@ -1,5 +1,5 @@
 print("Program To Add TWo Numbers")
-print
+print()
 n1=int(input("Enter First number :"))
 n2=int(input("Enter Second number :"))
 sum=n1+n2
